@@ -1,0 +1,13 @@
+if phone battery icon is = 5 OR <5 percent 
+  get a phone charger
+if phone charger is found
+  plug one end of  phone charger to DC power outlet
+if one end of phone charger is connected to DC power outlet
+  plug the other end of phone charger to phone
+if phone battery icon displays < 100 percent
+  continue charging phone 
+if phone battery icon displays = 100 percent 
+  discontinue phone charging  
+if discontinue phone charging  
+  unplug phone charger from DC power outlet
+  
