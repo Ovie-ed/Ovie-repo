@@ -1,0 +1,113 @@
+PRACTICAL TASK ON PSEUDOCODE 
+
+  Algorithm 1.
+
+User to enter a positive number repeatedly
+if the User enter zero value
+then determine and output the largest numbers entered
+
+Pseudocode
+Request input from User
+Set input to be greater than zero
+if input is entered 
+	store input as input one 
+if second input is entered 
+	store input as input two
+if input is equal to zero 
+	print largest input
+
+
+  Algorithm 2.
+
+User to enter name as first_name
+if name is entered
+names should be printed with "Hello ,World"
+
+
+
+Pseudocode
+
+SET Name to first_name
+SET Greetings to "Hello, World"
+if Name is entered
+print Name AND Greetings 
+
+
+ Algorithm 3.
+Read arbitrary numbers of integers
+return the average of the arbitrary numbers of integers
+
+
+Pseudocode
+
+SET minimum number to min_num
+SET maximum number to max_num
+SET numbers of integers to total_num 
+While Total is the sum of numbers min_num and max_num
+Calculate arithmetic average by dividing Total by total_num
+print arithmetic average
+
+
+Algorithm 4.
+
+Read grocery list
+if the grocery is still available 
+print grocery in alphabetical order
+
+Pseudocode
+
+SET grocery list to grocery_list
+if grocery is till left to buy
+SET grocery_list to grocery_list_updated
+print grocery_list_updated in alphabetical order
+
+
+
+
+Algorithm 5.
+
+Input  x and y variables 
+Sum X and Y
+input  A variable
+Sum of X and Y divided by 2
+multiply X and Y
+output Sum of X and Y, Sum of X and Y divided by 2,multiplication of X and Y
+
+
+Pseudocode
+
+SET first number = X
+SET second number = Y
+
+if S = X+Y AND 
+   A = S/2 AND 
+   p = X x Y
+
+print S, A, P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+
+
+
+
+
+
+      
